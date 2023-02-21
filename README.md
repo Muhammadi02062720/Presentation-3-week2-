@@ -123,3 +123,11 @@ Otherwise it returns false.
 The includes() method is case sensitive.
 
 ![](/images/Screenshot_16.png)
+
+>### JavaScript String method search() 
+
+ >The search() method matches a string against a regular expression **
+The search() method returns the index (position) of the first match.
+The search() method returns -1 if no match is found.
+
+![](/images/Screenshot_17.png)
