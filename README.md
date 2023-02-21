@@ -32,4 +32,13 @@ The index of the last character is string length - 1 .
 The concat() method does not change the existing strings.
 The concat() method returns a new string. 
 
-![](/images/Screenshot_4.png)
+![](/images/Screenshot_4.png) 
+
+
+>### JavaScript String method replace() 
+
+ >The replace() method searches a string for a value or a regular expression.
+ The replace() method returns a new string with the value(s) replaced.
+ The replace() method does not change the original string.
+
+ ![](/images/Screenshot_5.png)
