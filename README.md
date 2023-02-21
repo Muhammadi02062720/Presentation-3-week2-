@@ -130,4 +130,12 @@ The includes() method is case sensitive.
 The search() method returns the index (position) of the first match.
 The search() method returns -1 if no match is found.
 
-![](/images/Screenshot_17.png)
+![](/images/Screenshot_17.png) 
+
+>### JavaScript String method indexOf() 
+
+ >The indexOf() method returns the position of the first occurrence of a value in a string.
+The indexOf() method returns -1 if the value is not found.
+The indexOf() method is case sensitive 
+
+![](/images/Screenshot_20.png)
