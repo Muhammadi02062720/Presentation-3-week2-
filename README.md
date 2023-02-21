@@ -24,4 +24,4 @@
 The index of the first character is 0, the second 1, ...
 The index of the last character is string length - 1 .
 
-![](/images/Screenshot_13png.png)
+![](/images/Screenshot_3.png)
