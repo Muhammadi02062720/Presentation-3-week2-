@@ -138,4 +138,12 @@ The search() method returns -1 if no match is found.
 The indexOf() method returns -1 if the value is not found.
 The indexOf() method is case sensitive 
 
-![](/images/Screenshot_20.png)
+![](/images/Screenshot_20.png) 
+
+
+>### JavaScript String method repeat() 
+
+ >The repeat() method creates a new string by repeating the given string a specified number of
+times and returns it.
+
+![](/images/Screenshot_21.png)
