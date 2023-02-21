@@ -25,3 +25,11 @@ The index of the first character is 0, the second 1, ...
 The index of the last character is string length - 1 .
 
 ![](/images/Screenshot_3.png)
+
+>### JavaScript String method concat() 
+
+ >The concat() method joins two or more strings.
+The concat() method does not change the existing strings.
+The concat() method returns a new string. 
+
+![](/images/Screenshot_4.png)
