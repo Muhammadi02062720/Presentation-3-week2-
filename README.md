@@ -80,4 +80,13 @@ The substring() method does not change the original string.
 If start is greater than end, arguments are swapped: (4, 1) = (1, 4).
 Start or end values less than 0, are treated as 0.
 
-![](/images/Screenshot_10.png)
+![](/images/Screenshot_10.png) 
+
+
+>### JavaScript String method slice(start, end) 
+
+ >The slice() method returns a shallow copy of a portion of an array into a new array object
+selected from start to end ( end not included) where start and end represent the index of items
+in that array 
+
+![](/images/Screenshot_11.png)
