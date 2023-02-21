@@ -13,3 +13,7 @@
 ### JS will be built with 3 ways
 
 ![](/images/Screenshot_1.png)
+
+> ## JAVA SCRIPT STRING METHODS 
+
+ >![](/images/Screenshot_2.png)
