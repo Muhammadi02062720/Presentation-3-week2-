@@ -41,4 +41,12 @@ The concat() method returns a new string.
  The replace() method returns a new string with the value(s) replaced.
  The replace() method does not change the original string.
 
- ![](/images/Screenshot_5.png)
+ ![](/images/Screenshot_5.png) 
+
+
+>### JavaScript String method replaceAll() 
+
+ >The replaceAll() method returns a new string with all matches of a pattern replaced by
+a replacement.
+
+![](/images/Screenshot_6.png)
