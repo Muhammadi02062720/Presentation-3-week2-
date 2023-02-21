@@ -16,4 +16,4 @@
 
 > ## JAVA SCRIPT STRING METHODS 
 
- >![](/images/Screenshot_2.png)
+![](/images/Screenshot_2.png)
