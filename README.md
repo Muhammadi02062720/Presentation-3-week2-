@@ -89,4 +89,12 @@ Start or end values less than 0, are treated as 0.
 selected from start to end ( end not included) where start and end represent the index of items
 in that array 
 
-![](/images/Screenshot_11.png)
+![](/images/Screenshot_11.png) 
+
+
+>### JavaScript String method toLowerCase()
+
+ >The toLowerCase() method converts a string to lowercase letters.
+The toLowerCase() method does not change the original string. 
+
+![](/images/Screenshot_12.png)
