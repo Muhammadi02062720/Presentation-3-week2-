@@ -113,4 +113,13 @@ The toUpperCase() method does not change the original string.
  >Method trim() removes whitespace from both sides of a string.
 The trim() method does not change the original string.
 
-![](/images/Screenshot_15.png)
+![](/images/Screenshot_15.png) 
+
+
+>### JavaScript String method includes()
+
+ >The includes() method returns true if a string contains a specified string.
+Otherwise it returns false.
+The includes() method is case sensitive.
+
+![](/images/Screenshot_16.png)
