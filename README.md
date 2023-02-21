@@ -59,3 +59,13 @@ array. The split() method does not change the original string. If (" ") is used 
 is split between words.
 
 ![](/images/Screenshot_7.png)
+
+
+>### JavaScript String method substr(start, length)
+
+ >The substr() method extracts a part of a string.
+The substr() method begins at a specified position, and returns a specified number of characters.
+The substr() method does not change the original string.
+To extract characters from the end of the string, use a negative start position
+
+![](/images/Screenshot_8.png)
