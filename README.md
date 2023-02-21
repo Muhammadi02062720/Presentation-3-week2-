@@ -49,4 +49,13 @@ The concat() method returns a new string.
  >The replaceAll() method returns a new string with all matches of a pattern replaced by
 a replacement.
 
-![](/images/Screenshot_6.png)
+![](/images/Screenshot_6.png) 
+
+
+>### JavaScript String method split() 
+
+ >The split() method splits a string into an array of substrings. The split() method returns the new
+array. The split() method does not change the original string. If (" ") is used as separator, the string
+is split between words.
+
+![](/images/Screenshot_7.png)
