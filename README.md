@@ -105,4 +105,12 @@ The toLowerCase() method does not change the original string.
  >The toUpperCase() method converts a string to uppercase letters, using current locale.
 The toUpperCase() method does not change the original string.
 
-![](/images/Screenshot_14.png)
+![](/images/Screenshot_14.png) 
+
+
+>### JavaScript String method trim() 
+
+ >Method trim() removes whitespace from both sides of a string.
+The trim() method does not change the original string.
+
+![](/images/Screenshot_15.png)
