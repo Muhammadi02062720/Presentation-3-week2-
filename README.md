@@ -97,4 +97,12 @@ in that array
  >The toLowerCase() method converts a string to lowercase letters.
 The toLowerCase() method does not change the original string. 
 
-![](/images/Screenshot_12.png)
+![](/images/Screenshot_12.png) 
+
+
+>### JavaScript String method toUpperCase()
+ 
+ >The toUpperCase() method converts a string to uppercase letters, using current locale.
+The toUpperCase() method does not change the original string.
+
+![](/images/Screenshot_14.png)
