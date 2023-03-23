@@ -10,10 +10,6 @@
  Методы используются для выполнения определенных действий, и они
  также известны как функции
 
-### JS will be built with 3 ways
-
-![](/images/Screenshot_1.png)
-
 > ## JAVA SCRIPT STRING METHODS 
 
 ![](/images/Screenshot_2.png)
