@@ -39,6 +39,8 @@ The concat() method returns a new string.
 
  ![](/images/Screenshot_5.png) 
 
+ ![](/images/Screenshot_11111.png)
+
 
 >### JavaScript String method replaceAll() 
 
